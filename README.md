@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
-<h3 align="center">A passionate frontend developer from Karachi pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhasnain619&label=Profile%20views&color=0e75b6&style=flat" alt="mhasnain619" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhasnain619" alt="mhasnain619" /></a> </p>
-
-- 🌱 I’m currently learning **node js, react native,**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-mhasnain-updated.vercel.app/](https://portfolio-mhasnain-updated.vercel.app/)
-
-- 💬 Ask me about **es6, node js, express js, firebase, react, mongodb**
-
-- 📫 How to reach me **hasnain0893@gmail.com**
-
-- ⚡ Fun fact **I keep night shift swithed on at all times**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"><h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
 <h3 align="center">A passionate frontend developer from Karachi pakistan</h3>
